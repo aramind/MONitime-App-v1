@@ -6,7 +6,7 @@
 <br />
 <div align="center">
 
-<h1 align="center">rMONitime v1</h1>
+<h1 align="center">MONitime v1</h1>
 
   <p align="center">
     A time monitoring app for personal use running on browser.
